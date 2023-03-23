@@ -9,6 +9,7 @@ public class EmitrackingtestAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EmitrackingtestAppApplication.class, args);	
 		int var = 10 ;
+		int ra = 100 ;
 	}
 
 }
